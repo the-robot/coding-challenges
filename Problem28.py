@@ -102,7 +102,7 @@ if __name__ == '__main__':
 	LENGTH = {
 		'TEST1': 16
 	}
-	SOLUTION = {
+	ANSWER = {
 		'TEST1': """the  quick brown\nfox  jumps  over\nthe   lazy   dog"""
 	}
 
@@ -110,11 +110,11 @@ if __name__ == '__main__':
 	for test, words in WORDS.items():
 		try:
 			res = solution(words, LENGTH[test])
-			assert res == SOLUTION[test]
+			assert res == ANSWER[test]
 			print(f'PASS: {test}')
 
 		except AssertionError:
 			print(f'{"FAIL":9}: {test}')
 			print(f'{"WORDS":9}: {words}')
 			print(f'{"K":9}: {LENGTH[test]}')
-			print(f'EXPECTED :\n{SOLUTION[test]}', end='\n\n')
+			print(f'EXPECTED :\n{ANSWER[test]}', end='\n\n')
