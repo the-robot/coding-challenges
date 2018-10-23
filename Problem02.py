@@ -22,7 +22,7 @@ def solution(numbers):
 def solution2(numbers):
 	# solution without using division, multiple everything without current index
 	originals = numbers[:]
-	return [ reduce(lambda x, y: x*y, originals[:i] + originals[i+1:]) for i in range( len(numbers) ) ]
+	return [ reduce( lambda x, y: x*y, originals[:i] + originals[i+1:] ) for i in range( len(numbers) ) ]
 
 if __name__ == '__main__':
 	TESTS = {
