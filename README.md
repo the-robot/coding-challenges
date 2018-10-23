@@ -4,7 +4,7 @@
 
 - You may look at the answers to learn or give me a feedback if you have better solution (as I am also not very good at solving complex stuffs)
 
-![Meme](https://media3.giphy.com/media/BmmfETghGOPrW/giphy.gif?cid=3640f6095bceb4fd6e6e7a4845af57d5)
+![Meme](https://media3.giphy.com/media/BmmfETghGOPrW/giphy.gif)
 
 ----
 
