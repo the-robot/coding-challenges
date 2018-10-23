@@ -48,7 +48,7 @@ if __name__ == '__main__':
         'TEST2': [5, 1, 1, 5],
     }
     # solutions
-    RESULTS = {
+    ANSWERS = {
         'TEST1': 13,
         'TEST2': 10,
     }
@@ -58,7 +58,7 @@ if __name__ == '__main__':
         res = solution(values)
 
         try:
-            assert res == RESULTS[test]
+            assert res == ANSWERS[test]
             print(f'PASS: {values}')
         except AssertionError:
-            print(f'FAIL: {values}... excepted {RESULTS[test]}, got {res}')
+            print(f'FAIL: {values}... excepted {ANSWERS[test]}, got {res}')
