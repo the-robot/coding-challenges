@@ -29,7 +29,7 @@ if __name__ == '__main__':
 		'TEST1': [1, 2, 3, 4, 5],
 		'TEST2': [3, 2, 1]
 	}
-	ANSWER = {
+	ANSWERS = {
 		'TEST1': [120, 60, 40, 30, 24],
 		'TEST2': [2, 3, 6]
 	}
@@ -37,8 +37,8 @@ if __name__ == '__main__':
 	for test, numbers in TESTS.items():
 		try:
 			res = solution(numbers)
-			assert res == ANSWER[test]
+			assert res == ANSWERS[test]
 			print(f'PASS: {numbers}')
 
 		except AssertionError:
-			print(f'FAIL: {numbers}... expected {ANSWER[test]}')
+			print(f'FAIL: {numbers}... expected {ANSWERS[test]}')
