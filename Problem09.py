@@ -18,7 +18,7 @@ def solution(numbers):
     # if total numbers is <= 2, return (cannot have adjacent)
     if len(numbers) <= 2 or ( len(numbers) == 3 and numbers.index(max_num) == 1 ):
         return max_num
-    
+
     # if total numbers == 3, and index of largest != 1 (then add first or last index)
     elif len(numbers) == 3 and numbers.index(max_num) != 1:
         index = numbers.index(max_num)
