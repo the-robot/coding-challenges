@@ -78,7 +78,7 @@ def solution(words, length):
 					if i == len(words) - 1:
 						i = 0
 
-					# find where to add the index
+					# find where to add the space
 					whereto = formatted[line_number].find(words[i]) + len(words[i])
 					sentence = formatted[line_number]
 					formatted[line_number] = sentence[:whereto] + ' ' + sentence[whereto:]
