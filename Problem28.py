@@ -23,6 +23,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps",
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 """
 
+
 def divide(words, length):
 	# store the length of total words that can be in current line
 	s_words = {}
