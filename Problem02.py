@@ -24,6 +24,7 @@ def solution2(numbers):
 	originals = numbers[:]
 	return [ reduce( lambda x, y: x*y, originals[:i] + originals[i+1:] ) for i in range( len(numbers) ) ]
 
+
 if __name__ == '__main__':
 	TESTS = {
 		'TEST1': [1, 2, 3, 4, 5],
