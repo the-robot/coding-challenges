@@ -10,6 +10,7 @@ package main
 
 import (
     "fmt"
+    "os"
     "sort"
 )
 
@@ -37,20 +38,35 @@ func index(numbers []int, tolook int) int {
     return -1
 }
 
-
-func solution(test Test) int {
-    numbers := test.Numbers
-
+func solution(numbers []int) int {
     // find max
     var max_num int = max(numbers)
 
-    // if len numbers is <= 2, or index of max is center in 3 numbers
-    // return max_num (cannot have adjacent)
     if len(numbers) <= 2 || ( len(numbers) == 3 && index(numbers, max_num) == 1 ) {
+        // if len numbers <= 2, or index of max is center in 3 numbers
+        // return max_num (cannot have adjacent)
         return max_num
-    }
+    } else if len(numbers) == 3 && index(numbers, max_num) == 1 {
+        // if len numbers == 3, and index of max != 1, then (add first and last index)
+        return numbers[0] + numbers[1]
+    } else {
+        // else, do divde and conquer
+        index := index(numbers, max_num)
+        left := 0
+        right := 0
 
-    return max_num
+        // if not index is first one or the one after the first
+        if index > 1 {
+            left += solution( numbers[:index-1] )
+        }
+
+        // if not index is last one or the one before the last
+        if index < ( len(numbers) - 2 ) {
+            right += solution( numbers[index+2:] )
+        }
+
+        return max_num + left + right
+    }
 }
 
 func main() {
@@ -65,6 +81,12 @@ func main() {
     tests := []Test {test1, test2}
 
     for i:=0; i<len(tests); i++ {
-        solution( tests[i] )
+        if tests[i].Answer != solution( tests[i].Numbers ) {
+            fmt.Fprintf(os.Stderr, "FAIL: %v... expected %d\n",
+                        tests[i].Numbers, tests[i].Answer)
+            continue
+        }
+
+        fmt.Printf("PASS: %v\n", tests[i].Numbers)
     }
 }
