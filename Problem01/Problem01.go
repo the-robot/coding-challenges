@@ -60,6 +60,7 @@ func main() {
         if tests[i].Answer != solution(tests[i]) {
             fmt.Fprintf(os.Stderr, "FAIL: %v... expected %t\n",
                         tests[i].Numbers, tests[i].Answer)
+            continue
         }
 
         fmt.Printf("PASS: %v\n", tests[i].Numbers)
