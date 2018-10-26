@@ -51,18 +51,18 @@ func solution(numbers []int) int {
         return numbers[0] + numbers[1]
     } else {
         // else, do divde and conquer
-        index := index(numbers, max_num)
+        i := index(numbers, max_num)
         left := 0
         right := 0
 
         // if not index is first one or the one after the first
-        if index > 1 {
-            left += solution( numbers[:index-1] )
+        if i > 1 {
+            left += solution( numbers[:i-1] )
         }
 
         // if not index is last one or the one before the last
-        if index < ( len(numbers) - 2 ) {
-            right += solution( numbers[index+2:] )
+        if i < ( len(numbers) - 2 ) {
+            right += solution( numbers[i+2:] )
         }
 
         return max_num + left + right
