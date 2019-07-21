@@ -2,7 +2,7 @@
 
 - These are my solutions for daily coding problems, it is not uploaded to be used as `copy-paste` answers for the challenges given by [https://www.dailycodingproblem.com](https://www.dailycodingproblem.com)
 
-- You may look at the answers to learn or give me a feedback if you have better solution (as I am not good at solving complex stuffs)
+- You may look at the answers to learn or give me a feedback if you have better solution.
 
 ![Meme](https://media3.giphy.com/media/BmmfETghGOPrW/giphy.gif)
 
