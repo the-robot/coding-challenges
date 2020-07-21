@@ -13,7 +13,7 @@ class Solution:
 
         # while they do not overlap yet
         # means they may be 0 that can be moved to behind
-        while left <= right:
+        while left < right:
             if nums[left] == 0:
                 del nums[left]
                 nums.append(0)
