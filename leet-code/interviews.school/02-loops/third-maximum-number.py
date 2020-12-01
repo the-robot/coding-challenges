@@ -4,30 +4,23 @@ from typing import List
 
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
-        nums = list(set(nums)) # remove duplicates
+        fm = sm = tm = None
 
-        # edge conditions (if there's no third maximum means return first maximum)
-        if len(nums) <= 2:
-            return max(nums)
+        for num in nums:
+            if fm is None or num > fm:
+                tm = sm
+                sm = fm
+                fm = num
+            elif num == fm:
+                continue
 
-        firstMaximum = max(nums[0], nums[1])
-        secondMaximum = min(nums[0], nums[1])
-        thirdMaximum = None
+            elif sm is None or num > sm:
+                tm = sm
+                sm = num
+            elif num == sm:
+                continue
 
-        i = 2
-        while i < len(nums):
-            if nums[i] > firstMaximum:
-                thirdMaximum = secondMaximum
-                secondMaximum = firstMaximum
-                firstMaximum = nums[i]
-
-            elif nums[i] > secondMaximum:
-                thirdMaximum = secondMaximum
-                secondMaximum = nums[i]
-
-            elif thirdMaximum is None or nums[i] > thirdMaximum:
-                thirdMaximum = nums[i]
-
-            i += 1
-
-        return thirdMaximum
+            elif tm is None or num > tm:
+                tm = num
+        
+        return fm if tm is None else tm
