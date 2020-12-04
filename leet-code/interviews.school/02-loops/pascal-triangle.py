@@ -11,7 +11,7 @@ class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         triangle = []
 
-        for row in range(numRows + 1):
+        for row in range(numRows):
             # create new row at the bottom
             triangle.append([])
 
