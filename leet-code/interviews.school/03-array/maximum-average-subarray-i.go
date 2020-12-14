@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/maximum-average-subarray-i/
+
 package main
 
 func findMaxAverage(nums []int, k int) float64 {
