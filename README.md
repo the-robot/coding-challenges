@@ -17,10 +17,10 @@
 | | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/longest-continuous-increasing-subsequence.py) |
 | Dec 4, 2020 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/pascal-triangle.py) |
 | | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/implement-strstr.py) |
-| | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
-| Dec 9, 2020 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
-| Dec 10, 2020 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |
-| | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium |
+| | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/best-time-to-buy-and-sell-stock.py) |
+| Dec 9, 2020 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/longest-common-prefix.py) |
+| Dec 10, 2020 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/jump-game.py) |
+| | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/increasing-triplet-subsequence.py) |
 | | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy |
 | Dec 11, 2020 | [Maximum Subarray](https://leetcode.com/problems/jump-game/) | Easy |
 | | [Merge Sorted Array](https://leetcode.com/problems/maximum-subarray/) | Easy |
