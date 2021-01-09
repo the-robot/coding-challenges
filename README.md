@@ -1,5 +1,9 @@
 ### Grinding Progress
 
+**Solved**
+- 31 Easy
+- 15 Medium
+
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
 | Dec 1, 2020 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/fizzbuzz.py) |
