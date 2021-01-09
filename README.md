@@ -7,16 +7,16 @@
 | | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/jewels-and-stones.py) |
 | | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/rectangle-overlap.py) |
 | | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/lemonade-change.py) |
-| Dec 2, 2020 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy |
-| | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
-| | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
-| | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
-| Dec 3, 2020 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy |
-| | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy |
-| | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |
-| | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy |
-| Dec 4, 2020 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy |
-| | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy |
+| Dec 2, 2020 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/lemonade-change.py) |
+| | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/lemonade-change.py) |
+| | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/lemonade-change.py) |
+| | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/lemonade-change.py) |
+| Dec 3, 2020 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/peak-index-in-a-mountain-array.py) |
+| | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/robot-return-to-origin.py) |
+| | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/palindromic-substrings.py) |
+| | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/longest-continuous-increasing-subsequence.py) |
+| Dec 4, 2020 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/pascal-triangle.py) |
+| | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/implement-strstr.py) |
 | | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
 | Dec 9, 2020 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
 | Dec 10, 2020 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |
