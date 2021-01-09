@@ -1,12 +1,12 @@
 ### Grinding Progress
 
-| Date | Name | Difficulty |
-|:----:|:-----|:----------:|
-| Dec 1, 2020 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy |
-| | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |
-| | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy |
-| | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy |
-| | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy |
+| Date | Name | Difficulty | Solution |
+|:----:|:-----|:----------:|:--------:|
+| Dec 1, 2020 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [python](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/fizzbuzz.py) |
+| | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [python](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/length-of-last-word.py) |
+| | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [python](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/jewels-and-stones.py) |
+| | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | [python](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/rectangle-overlap.py) |
+| | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [python](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/01-simple-problems/lemonade-change.py) |
 | Dec 2, 2020 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy |
 | | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
 | | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
