@@ -1,0 +1,29 @@
+### Grinding Progress
+
+| Date | Name | URL | Difficulty |
+|:----:|:-----|:----|:----------:|
+| Dec 1, 2020 | Fizz Buzz | https://leetcode.com/problems/fizz-buzz/ | Easy |
+| | Length of Last Word | https://leetcode.com/problems/length-of-last-word/ | Easy |
+| | Jewels and Stones | https://leetcode.com/problems/jewels-and-stones/ | Easy |
+| | Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap/ | Easy |
+| | Lemonade Change | https://leetcode.com/problems/lemonade-change/ | Easy |
+| Dec 2, 2020 | Third Maximum Number | https://leetcode.com/problems/third-maximum-number/ | Easy |
+| | Reverse String | https://leetcode.com/problems/reverse-string/ | Easy |
+| | Valid Palindrome | https://leetcode.com/problems/valid-palindrome/ | Easy |
+| | Subtract the Product and Sum of Digits of an Integer | https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ | Easy |
+| Dec 3, 2020 | Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array/ | Easy |
+| | Robot Return to Origin | https://leetcode.com/problems/robot-return-to-origin/ | Easy |
+| | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings/ | Medium |
+| | Longest Continuous Increasing Subsequence | https://leetcode.com/problems/longest-continuous-increasing-subsequence/ | Easy |
+| Dec 4, 2020 | Pascal's Triangle | https://leetcode.com/problems/pascals-triangle/ | Easy |
+| | Implement strStr() | https://leetcode.com/problems/implement-strstr/ | Easy |
+| | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | Easy |
+| Dec 9, 2020 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/ | Easy |
+| Dec 10, 2020 | Jump Game | https://leetcode.com/problems/jump-game/ | Medium |
+| | Increasing Triplet Subsequence | https://leetcode.com/problems/increasing-triplet-subsequence/ | Medium |
+| | Range Sum Query - Immutable | https://leetcode.com/problems/range-sum-query-immutable/ | Easy |
+| Dec 11, 2020 | Maximum Subarray | https://leetcode.com/problems/jump-game/ | Easy |
+| | Merge Sorted Array | https://leetcode.com/problems/maximum-subarray/ | Easy |
+| | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | Medium |
+| Dec 13, 2020 | Missing Number | https://leetcode.com/problems/missing-number/ | Easy |
+| | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/ | Easy |
