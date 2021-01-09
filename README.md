@@ -28,13 +28,13 @@
 | Dec 13, 2020 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/missing-number.go) |
 | | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/maximum-average-subarray-i.go) |
 | Dec 14, 2020 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/keyboard-row.go) |
-| Dec 16, 2020 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium |
-| Dec 17, 2020 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy |
-| Dec 19, 2020 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |
-| Dec 20, 2020 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium |
-| Dec 25, 2020 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium |
-| | [Valid Sudoku (TODO)](https://leetcode.com/problems/valid-sudoku/) | Medium |
-| | [Game of Life (TODO)](https://leetcode.com/problems/game-of-life/) | Medium |
+| Dec 16, 2020 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/range-sum-query-2d-immutable.go) |
+| Dec 17, 2020 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/toeplitz-matrix.go) |
+| Dec 19, 2020 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/spiral-matrix.go) |
+| Dec 20, 2020 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/rotate-image.go) |
+| Dec 25, 2020 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/set-matrix-zeros.go) |
+| | [Valid Sudoku (TODO)](https://leetcode.com/problems/valid-sudoku/) | Medium | [.cpp](#) |
+| | [Game of Life (TODO)](https://leetcode.com/problems/game-of-life/) | Medium | [.cpp](#) |
 | Dec 26, 2020 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy |
 | Dec 27, 2020 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
