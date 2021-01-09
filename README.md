@@ -23,10 +23,10 @@
 | | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/02-loops/increasing-triplet-subsequence.py) |
 | | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/range-sum-query-immutable.py) |
 | Dec 11, 2020 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/maximum-subarray.py) |
-| | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/merge-sorted-array.go) |
+| | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/merge-sorted-array.go) |
 | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/product-of-array-except-self.py) |
-| Dec 13, 2020 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/missing-number.go) |
-| | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [.py](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/maximum-average-subarray-i.go) |
+| Dec 13, 2020 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/missing-number.go) |
+| | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/maximum-average-subarray-i.go) |
 | Dec 14, 2020 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/keyboard-row.go) |
 | Dec 16, 2020 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium |
 | Dec 17, 2020 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Easy |
