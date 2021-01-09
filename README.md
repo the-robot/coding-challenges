@@ -15,7 +15,7 @@
 | | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy |
 | | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |
 | | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Easy |
-| Dec 4, 2020 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy |
+| Dec 4, 2020 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy |
 | | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy |
 | | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
 | Dec 9, 2020 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
