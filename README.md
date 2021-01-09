@@ -27,3 +27,17 @@
 | | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | Medium |
 | Dec 13, 2020 | Missing Number | https://leetcode.com/problems/missing-number/ | Easy |
 | | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/ | Easy |
+| Dec 14, 2020 | Keyboard Row | https://leetcode.com/problems/keyboard-row/ | Easy |
+| Dec 16, 2020 | Range Sum Query 2D - Immutable | https://leetcode.com/problems/range-sum-query-2d-immutable/ | Medium |
+| Dec 17, 2020 | Toeplitz Matrix | https://leetcode.com/problems/toeplitz-matrix/ | Easy |
+| Dec 19, 2020 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix/ | Medium |
+| Dec 20, 2020 | Rotate Image | https://leetcode.com/problems/rotate-image/ | Medium |
+| Dec 25, 2020 | Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes/ | Medium |
+| | Valid Sudoku (TODO) | https://leetcode.com/problems/valid-sudoku/ | Medium |
+| | Game of Life (TODO) | https://leetcode.com/problems/game-of-life/ | Medium |
+| Dec 26, 2020 | Valid Anagram | https://leetcode.com/problems/valid-anagram/ | Easy |
+| | Transpose Matrix | https://leetcode.com/problems/transpose-matrix/ | Easy |
+| Dec 26, 2020 | Symmetric Tree | https://leetcode.com/problems/symmetric-tree/ | Easy |
+| | Contain Duplicate | https://leetcode.com/problems/contains-duplicate/ | Easy |
+| | Maximum Product of Three Numbers | https://leetcode.com/problems/maximum-product-of-three-numbers/ | Easy |
+| | Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array/ | Medium |
