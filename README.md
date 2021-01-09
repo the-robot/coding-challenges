@@ -35,13 +35,13 @@
 | Dec 25, 2020 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/03-array/set-matrix-zeros.go) |
 | | [Valid Sudoku (TODO)](https://leetcode.com/problems/valid-sudoku/) | Medium | [.cpp](#) |
 | | [Game of Life (TODO)](https://leetcode.com/problems/game-of-life/) | Medium | [.cpp](#) |
-| Dec 26, 2020 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
-| | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy |
-| Dec 27, 2020 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
-| | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
-| | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy |
-| | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
-| Jan 3, 2021 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |
+| Dec 26, 2020 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/valid-anagram.cpp) |
+| | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/randoms/transpose-matrix.cpp) |
+| Dec 27, 2020 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/randoms/symmetric-tree.cpp) |
+| | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/contain-duplicate.cpp) |
+| | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/maximum-product-of-three-numbers.cpp) |
+| | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/kth-largest-element-in-an-array.cpp) |
+| Jan 3, 2021 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/merge-intervals.cpp) |
 | | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium |
 | Jan 9, 2021 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Medium |
 | | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
