@@ -42,9 +42,9 @@
 | | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/maximum-product-of-three-numbers.cpp) |
 | | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/kth-largest-element-in-an-array.cpp) |
 | Jan 3, 2021 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/merge-intervals.cpp) |
-| | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium |
-| Jan 9, 2021 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Medium |
-| | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
-| | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
-| | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy |
-| | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |
+| | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/largest-number.cpp) |
+| Jan 9, 2021 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/maximum-length-of-pair-chain.cpp) |
+| | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/04-sorting/contain-duplicate.cpp) |
+| | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/two-sum.cpp) |
+| | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/intersection-of-two-arrays.cpp) |
+| | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/group-anagrams.cpp) |
