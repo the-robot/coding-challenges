@@ -1,5 +1,7 @@
 ### Grinding Progress
 
+[grinding guide](https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/)
+
 **Solved**
 - 31 Easy
 - 15 Medium
