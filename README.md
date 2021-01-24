@@ -4,7 +4,7 @@
 
 **Solved**
 - 34 Easy
-- 18 Medium
+- 21 Medium
 
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
@@ -60,3 +60,6 @@
 | | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/random-pick-index.cpp) |
 | | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/subarray-sum-equals-k.cpp) |
 | | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/happy-number.cpp) |
+| Jan 24, 2021 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/4sum.cpp) |
+| | [4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/4sum-ii.cpp) |
+| | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/top-k-frequent-elements.cpp) |
