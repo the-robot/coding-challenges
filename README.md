@@ -62,4 +62,4 @@
 | | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/happy-number.cpp) |
 | Jan 24, 2021 | [4 Sum](https://leetcode.com/problems/4sum/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/4sum.cpp) |
 | | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/4sum-ii.cpp) |
-| | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/top-k-frequent-elements.cpp) |
+| Jan 28, 2021 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/interviews.school/05-sets-and-maps/top-k-frequent-elements.cpp) |
