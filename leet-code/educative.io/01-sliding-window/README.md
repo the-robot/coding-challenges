@@ -13,7 +13,7 @@ Common problems you use the sliding window pattern with:
 **Problem Alternatives**
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
-| Jan 30, 2021 | [Maximum Sum Subarray of Size K](https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP) | Easy | [.cpp]() |
+| Jan 30, 2021 | [Maximum Sum Subarray of Size K](https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP) | Easy | [.cpp](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/01-sliding-window/maximum-sum-subarray-of-size-k.cpp) |
 | | [Smallest Subarray with a given sum](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/01-sliding-window/smallest-subarray-with-a-given-sum.cpp) |
 | | [Longest Substring with K Distinct Characters](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/01-sliding-window/longest-substring-with-k-distinct-characters.cpp) |
 | | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/01-sliding-window/fruit-into-backsets.cpp) |
