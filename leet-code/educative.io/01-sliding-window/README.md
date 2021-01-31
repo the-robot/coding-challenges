@@ -11,6 +11,7 @@ Common problems you use the sliding window pattern with:
 <br/>
 
 **Problem Alternatives**
+
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
 | Jan 30, 2021 | [Maximum Sum Subarray of Size K](https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/01-sliding-window/maximum-sum-subarray-of-size-k.cpp) |
