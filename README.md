@@ -2,6 +2,8 @@
 
 [grinding guide](https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/)
 
+[educative.io - grokking the coding interview](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io)
+
 **Solved**
 - 34 Easy
 - 21 Medium
