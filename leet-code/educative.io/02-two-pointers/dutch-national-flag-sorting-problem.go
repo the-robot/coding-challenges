@@ -5,20 +5,20 @@ package main
 import "fmt"
 
 func dutchFlag(nums []int) []int {
-	mid := 0
+	i := 0
 	left := 0
 	right := len(nums) - 1
 
-	for mid <= right {
-		if nums[mid] == 0 {
-			nums[mid], nums[left] = nums[left], nums[mid]
-			mid++
+	for i <= right {
+		if nums[i] == 0 {
+			nums[i], nums[left] = nums[left], nums[i]
+			i++
 			left++
-		} else if nums[mid] == 2 {
-			nums[mid], nums[right] = nums[right], nums[mid]
+		} else if nums[i] == 2 {
+			nums[i], nums[right] = nums[right], nums[i]
 			right--
 		} else {
-			mid++
+			i++
 		}
 	}
 
