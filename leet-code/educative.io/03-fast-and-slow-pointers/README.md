@@ -5,6 +5,7 @@ Useful when dealing with cyclic linked lists or array.
 - The problem will deal with a loop in a linked list or array
 - When you need to know the position of a certain element or the overall length of the linked list.
 
+<br/>
 
 > When should I use it over the Two Pointer method mentioned above?  
 > 
@@ -14,6 +15,8 @@ Problems featuring the fast and slow pointers pattern:
 - Linked List Cycle (easy)
 - Palindrome Linked List (medium)
 - Cycle in a Circular Array (hard)
+
+<br/>
 
 **Problem Alternatives**
 
