@@ -8,7 +8,7 @@ Here are some problems that feature the Two Pointer pattern:
 - Triplets that sum to zero (medium)
 - Comparing strings that contain backspaces (medium)
 
-For some problems, instead of having a sorted array, you will need to sort the array with two pointers. For example, `Shortest Unsorted Continuous Subarray` and `Dutch national flag sorting problem`, where finding a subset with 2 pointers or moving the elements in the subset with 2 pointers will result in sorted array.
+For some problems, instead of having a sorted array, you will need to sort the array with two pointers. For example, `Shortest Unsorted Continuous Subarray` and `Dutch national flag sorting problem`, where finding a subset with 2 pointers or moving the elements in the subset with an array (input) using 2 pointers will result in sorted array.
 
 <br/>
 
