@@ -14,7 +14,7 @@ Here are some problems that feature the Two Pointer pattern:
 
 | Date | Name | Difficulty | Solution | Is Sorted | Constraints | Type of elements to find |
 |:----:|:-----|:----------:|:--------:|:---------:|:-----------:|:------------------------:|
-| Feb 02, 2021 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/02-two-pointers/two-sum.cpp) | 
+| Feb 02, 2021 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/02-two-pointers/two-sum.cpp) | True | Find 2 numbers that sum of those is equal to target | 2 numbers from an array |
 | Feb 03, 2021 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/02-two-pointers/remove-duplicates-from-sorted-list.go) |
 | | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/02-two-pointers/remove-duplicates-from-sorted-list-ii.go) |
 | | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/02-two-pointers/remove-duplicates-from-sorted-array-ii.go) | True | Remove element that have duplicates | Subset (length of subset) |
