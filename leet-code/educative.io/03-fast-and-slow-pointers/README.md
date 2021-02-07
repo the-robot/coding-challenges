@@ -2,7 +2,7 @@ Useful when dealing with cyclic linked lists or array.
 
 **Ways to identify when to use the Fast and Slow pattern:**
 
-- The problem will deal with a loop in a linked list or array
+- The problem will deal with a loop in a linked list, array or sometimes a single number (`Happy Number` problem)
 - When you need to know the position of a certain element or the overall length of the linked list.
 
 <br/>
