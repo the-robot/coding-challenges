@@ -25,3 +25,4 @@ Problems featuring the fast and slow pointers pattern:
 | Feb, 07, 2021 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/linked-list-cycle.go) |
 | | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/linked-list-cycle-ii.go) |
 | | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/happy-number.go) |
+| | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/middle-of-the-linked-list.go) |
