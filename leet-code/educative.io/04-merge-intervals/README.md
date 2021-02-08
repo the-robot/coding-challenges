@@ -1,6 +1,6 @@
 The Merge Intervals pattern is an efficient technique to deal with overlapping intervals.
 
-Possible Merges
+**Possible way of merging**
 
 <img src="https://hackernoon.com/images/G9YRlqC9joZNTWsi1ul7tRkO6tv1-8mh13wm9.jpg" height="450px" />
 
