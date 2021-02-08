@@ -2,7 +2,7 @@ The Merge Intervals pattern is an efficient technique to deal with overlapping i
 
 Possible Merges
 
-![Possible Merges](https://hackernoon.com/images/G9YRlqC9joZNTWsi1ul7tRkO6tv1-8mh13wm9.jpg)
+<img src="https://hackernoon.com/images/G9YRlqC9joZNTWsi1ul7tRkO6tv1-8mh13wm9.jpg" height="450px" />
 
 **How to identify when to use the Merge Intervals pattern:**  
 
