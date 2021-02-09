@@ -20,3 +20,7 @@ Merge interval problem patterns:
 
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
+| Feb, 10, 2021 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/04-merge-intervals/merge-intervals.go) |
+| | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/04-merge-intervals/insert-intervals.go) |
+| | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/04-merge-intervals/interval-list-intersections.go) |
+| | [Conflicting Appointments](https://www.educative.io/courses/grokking-the-coding-interview/qVV79nGVgAG) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/04-merge-intervals/conflicting-appointments.go) |
