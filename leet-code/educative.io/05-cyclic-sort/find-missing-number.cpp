@@ -4,7 +4,7 @@ using namespace std;
 #include <vector>
 
 class MissingNumber {
-    public:
+public:
     static int findMissingNumber(vector<int> &nums) {
         // sort the number
         int i = 0;
@@ -29,8 +29,8 @@ class MissingNumber {
 
         return nums.size();
     }
-    
-    private:
+
+private:
     static void swap(vector<int> &arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];

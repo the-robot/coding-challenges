@@ -4,7 +4,7 @@ using namespace std;
 #include <vector>
 
 class CyclicSort {
-    public:
+public:
     static void sort(vector<int> &nums) {
         // sort the numbers
         int i = 0;
@@ -22,7 +22,7 @@ class CyclicSort {
         }
     }
 
-    private:
+private:
     static void swap(vector<int> &nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];

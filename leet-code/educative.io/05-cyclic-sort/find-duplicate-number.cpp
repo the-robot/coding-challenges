@@ -1,11 +1,12 @@
+// https://leetcode.com/problems/find-the-duplicate-number/
+
 using namespace std;
 
-#include <iostream>
 #include <vector>
 
-class FindDuplicate{
-    public:
-    static int findNumber(vector<int> &nums) {
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
         int i = 0;
         // NOTE: the sort below does not cater for 0 as number;
         //       that's why nums[i] is supposed to be equal to nums[i] + 1.
@@ -27,22 +28,11 @@ class FindDuplicate{
 
         return -1;
     }
-
-    private:
+    
+private:
     static void swap(vector<int> &arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }
 };
-
-int main() {
-    vector<int> v1 = {1, 4, 4, 3, 2};
-    cout << FindDuplicate::findNumber(v1) << endl;
-
-    v1 = {2, 1, 3, 3, 5, 4};
-    cout << FindDuplicate::findNumber(v1) << endl;
-
-    v1 = {2, 4, 1, 4, 4};
-    cout << FindDuplicate::findNumber(v1) << endl;
-}
