@@ -21,3 +21,6 @@
 ### [05. Cyclic Sort](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/05-cyclic-sort)
 - They will be problems involving a sorted array with numbers in a given range.
 - If the problem asks you to find the missing/duplicate/smallest number in an sorted/rotated array.
+
+### [06. In Place Reversal of a LinkedList](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/06-in-place-reversal-of-a-linkedlist)
+- If you’re asked to reverse a linked list without using extra memory.
