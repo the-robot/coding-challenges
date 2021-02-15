@@ -27,4 +27,4 @@
 - If you’re asked to reverse a linked list without using extra memory.
 
 ### [07. Tree Breadth First Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/07-tree-breadth-first-search)
-- If you’re asked to traverse a tree in a level-by-level fashion (or level order traversal)
+- If you’re asked to traverse a tree in a level-by-level fashion (or level order traversal).
