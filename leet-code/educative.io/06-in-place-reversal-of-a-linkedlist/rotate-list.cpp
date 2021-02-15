@@ -33,16 +33,33 @@ public:
             listLength++;
         }
         
-        lastNode->next = head; // connect the last node with the head to make it a circular list
-        k %= listLength; // no need to do ratations more than the length of the list
+        // no need to do rotation; if k is equal to list length
+        // because after rotation if will comes back to the original
+        if (k == listLength) {
+            return head;
+        }
+
+        // connect the last node with the head to make it a circular list
+        lastNode->next = head;
+
+        // no need to do rotations more than the length of the list
+        // I.e. if the length is 3 and rotate 4 means it is the same as rotate 1.
+        k %= listLength;
+
+        // length to skip from original head; to the new head after rotation
         int skipLength = listLength - k;
         
+        /*
+         * So what to do now is simple, we move the lastNodeOfRotatedList to the node just behind
+         * the new head; after that
+         *   - set the head as the lastNodeOfRotatedList->next (so it becomes the first)
+         *   - set lastNodeOfRotatedList->next to null (so it becomes the last)
+         */
         ListNode *lastNodeOfRotatedList = head;
         for (int i = 0; i < skipLength - 1; i++) {
             lastNodeOfRotatedList = lastNodeOfRotatedList->next;
         }
-        
-        // 'lastNodeOfRotatedList->next' is pointing to the sublist of 'k' ending nodes
+        // 'lastNodeOfRotatedList->next' is now pointing to the new head (start of the list)
         head = lastNodeOfRotatedList->next;
         lastNodeOfRotatedList->next = nullptr;
         
