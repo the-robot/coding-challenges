@@ -18,7 +18,44 @@ public:
 class ReverseEveryKElements {
 public:
     static ListNode *reverse(ListNode *head, int k) {
-        // TODO:
+        if (k <= 1 || head == nullptr) {
+            return head;
+        }
+
+        ListNode *current = head, *previous = nullptr;
+        while (true) {
+            ListNode *lastNodeOfPreviousPart = previous;
+            // after reversing the LinkedList current will become lastnode of the sub-list
+            ListNode *lastNodeOfSubList = current;
+            ListNode *next = nullptr; // will be used to temporarily store the next node
+
+            // reverse 'k' nodes
+            for (int i = 0; current != nullptr && i < k; i++) {
+                next = current->next;
+                current->next = previous;
+                previous = current;
+                current = next;
+            }
+
+            // connect with the previous part
+            if (lastNodeOfPreviousPart != nullptr) {
+                // previous is now the first node of sublist
+                lastNodeOfPreviousPart->next = previous;
+            } else {
+                head = previous;
+            }
+
+            // connect with the next part
+            lastNodeOfSubList->next = current;
+
+            // if no more nodes at the current position
+            if (current == nullptr) {
+                break;
+            }
+            // prepare for the next sublist
+            previous = lastNodeOfSubList;
+        }
+
         return head;
     }
 };
