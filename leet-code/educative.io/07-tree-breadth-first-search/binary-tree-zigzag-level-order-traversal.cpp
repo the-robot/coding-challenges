@@ -33,7 +33,7 @@ public:
         }
         
         // add the root into queue
-        queue<TreeNode *>queue;
+        queue<TreeNode *> queue;
         queue.push(root);
         bool leftToRight = true;
         
