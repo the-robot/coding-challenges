@@ -1,4 +1,4 @@
-<img src="https://hackernoon.com/images/G9YRlqC9joZNTWsi1ul7tRkO6tv1-t8i13wdp.jpg" height="500px" />
+<img src="https://hackernoon.com/images/G9YRlqC9joZNTWsi1ul7tRkO6tv1-t8i13wdp.jpg" height="700px" />
 
 **Identifying cyclic sort problems:**  
 
