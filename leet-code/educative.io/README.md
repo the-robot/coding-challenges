@@ -28,3 +28,7 @@
 
 ### [07. Tree Breadth First Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/07-tree-breadth-first-search)
 - If you’re asked to traverse a tree in a level-by-level fashion (or level order traversal).
+
+### [08. Tree Depth First Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/08-tree-depth-first-search)
+- If you’re asked to traverse a tree with in-order, preorder, or postorder DFS.
+- If the problem requires searching for something where the node is closer to a leaf.
