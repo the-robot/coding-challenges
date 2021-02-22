@@ -37,7 +37,7 @@ private:
             return false;
         }
 
-        // if the current node is a leaft, and it is the end of sequence, we have found the path
+        // if the current node is a leaf, and it is the end of sequence, we have found the path
         if (currentNode->left == nullptr && currentNode->right == nullptr &&
             sequenceIndex == sequence.size() - 1)
         {
