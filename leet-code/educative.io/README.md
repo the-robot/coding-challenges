@@ -32,3 +32,8 @@
 ### [08. Tree Depth First Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/08-tree-depth-first-search)
 - If you’re asked to traverse a tree with in-order, preorder, or postorder DFS.
 - If the problem requires searching for something where the node is closer to a leaf.
+
+### [09. Two Heaps](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/09-two-heaps)
+- Useful in situations like Priority Queue, Scheduling
+- If the problem states that you need to find the smallest/largest/median elements of a set
+- Sometimes, useful in problems featuring a binary tree data structure
