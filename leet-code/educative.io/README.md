@@ -37,3 +37,7 @@
 - Useful in situations like Priority Queue, Scheduling
 - If the problem states that you need to find the smallest/largest/median elements of a set
 - Sometimes, useful in problems featuring a binary tree data structure
+
+### [10. Subsets](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/10-subsets)
+- Problems where you need to find the combinations or permutations of a given set
+- Problems featuring Subsets pattern:
