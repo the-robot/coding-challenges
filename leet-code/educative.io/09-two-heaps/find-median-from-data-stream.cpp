@@ -9,7 +9,7 @@ class MedianFinder {
 public:
     /** initialize your data structure here. */
     priority_queue<int> lowPq; // store all small numbers [1, 2, 3, ...]
-    priority_queue<int, vector<int>, greater<int>> highPq; // store all large numbers [10, 9, 8, ...]
+    priority_queue<int, vector<int>, greater<int> > highPq; // store all large numbers [10, 9, 8, ...]
     MedianFinder() {}
   
     void addNum(int num) {

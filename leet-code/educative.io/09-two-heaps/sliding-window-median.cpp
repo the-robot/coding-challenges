@@ -10,9 +10,9 @@ class Solution {
 public:
     vector<double> medianSlidingWindow(vector<int>& nums, int k) {
         vector<double> median;
-        unordered_map<int,int> oldNumHash; // map to hold old window nums which are still in lowPq/highPq
+        unordered_map<int, int> oldNumHash; // map to hold old window nums which are still in lowPq/highPq
         priority_queue<int> lowPq; // maxHeap, PQ to hold lower half of window
-        priority_queue<int, vector<int>, greater<int>> highPq; // minHeap, PQ to hold upper half of window
+        priority_queue<int, vector<int>, greater<int> > highPq; // minHeap, PQ to hold upper half of window
 
         // add up to k numbers
         for (int i = 0; i < k; ++i) {
