@@ -12,7 +12,7 @@ class AbbreviatedWord:
         # at the current index, (counts after alphabet)
         # i.e. 1A_ has count 0
         #      ___ has count 3
-        self.count = count 
+        self.count = count
 
 class Solution:
     """
