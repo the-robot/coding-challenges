@@ -40,3 +40,6 @@
 
 ### [10. Subsets](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/10-subsets)
 - Problems where you need to find the combinations or permutations of a given set
+
+### [11. Modified Binary Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/11-modified-binary-search)
+
