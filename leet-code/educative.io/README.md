@@ -42,4 +42,5 @@
 - Problems where you need to find the combinations or permutations of a given set
 
 ### [11. Modified Binary Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/11-modified-binary-search)
-
+- Whenever you are given a sorted array, linked list, or matrix, and are asked to find a certain element, the best algorithm you can use is the Binary Search.
+- This pattern describes an efficient way to handle all problems involving Binary Search.
