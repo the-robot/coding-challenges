@@ -18,10 +18,10 @@ class Solution:
             # the letter you have to return is 1, 11 % 10 = 1
             return letters[left % len(letters)]
 
-        # calculate middle number
-        middle = int(left + (right - left) / 2)
+        # calculate mid number
+        mid = int(left + (right - left) / 2)
 
-        if letters[middle] > target:
-            return self.binarySearch(letters, target, left, middle - 1)
+        if letters[mid] > target:
+            return self.binarySearch(letters, target, left, mid - 1)
         else:
-            return self.binarySearch(letters, target, middle + 1, right)
+            return self.binarySearch(letters, target, mid + 1, right)
