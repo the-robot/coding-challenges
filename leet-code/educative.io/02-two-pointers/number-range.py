@@ -3,7 +3,7 @@
 from typing import List
 
 class Solution:
-    def findRange(self, nums: List[int], target: int):
+    def findRange(self, nums: List[int], target: int) -> List[int]:
         left = 0
         right = len(nums) - 1
 
