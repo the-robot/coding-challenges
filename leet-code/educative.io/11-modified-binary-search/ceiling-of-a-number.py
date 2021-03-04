@@ -12,7 +12,7 @@ class Solution:
 
     def binarySearch(self, nums: List[int], target: int, left: int, right: int) -> int:
         # calculate mid number
-        mid = int(left + (right - left) / 2)
+        mid = left + (right - left) // 2
 
         # check if mid number is the target, if it is return
         if nums[mid] == target:
