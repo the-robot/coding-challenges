@@ -2,6 +2,10 @@
 
 from typing import List
 
+"""
+Topic: Sets
+"""
+
 class Solution:
     def distributeCandies(self, candyType: List[int]) -> int:
         totalCandies = len(candyType)
