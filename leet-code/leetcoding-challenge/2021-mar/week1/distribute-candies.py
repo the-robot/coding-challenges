@@ -10,4 +10,4 @@ class Solution:
         for candy in candyType:
             uniqueCandies.add(candy)
         
-        return len(uniqueCandies) if len(uniqueCandies) < totalCandies // 2 else totalCandies // 2
+        return min(len(uniqueCandies), totalCandies // 2)
