@@ -1,4 +1,4 @@
-# https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/
+# https://leetcode.com/problems/average-of-levels-in-binary-tree/
 
 from collections import deque
 from typing import List
