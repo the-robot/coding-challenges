@@ -46,3 +46,5 @@
 - This pattern describes an efficient way to handle all problems involving Binary Search.
 
 ### [12. Bitwise XOR](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/12-bitwise-xor)
+
+### [13. Top K Elements](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/13-top-k-elements)

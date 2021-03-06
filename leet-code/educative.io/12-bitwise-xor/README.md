@@ -6,3 +6,8 @@ XOR is a logical bitwise operator that returns 0 (false) if both bits are the sa
 | 0 | 1 | 1 |
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
+
+<br/>
+
+| Date | Name | Difficulty | Solution |
+|:----:|:-----|:----------:|:--------:|
