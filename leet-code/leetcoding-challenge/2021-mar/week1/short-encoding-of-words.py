@@ -2,6 +2,10 @@
 
 from typing import List
 
+"""
+Topic: Sets
+"""
+
 class Solution:
     def minimumLengthEncoding(self, words: List[str]) -> int:
         """
