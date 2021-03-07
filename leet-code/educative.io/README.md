@@ -48,4 +48,5 @@
 ### [12. Bitwise XOR](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/12-bitwise-xor)
 
 ### [13. Top K Elements](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/13-top-k-elements)
-- Any problem that asks us to find the top/smallest/frequent ‘K’ elements among a given set falls under this pattern.
+- Any problem that asks us to find the top/smallest/frequent "K" elements among a given set falls under this pattern.
+- The best data structure that comes to mind to keep track of "K" elements is Heap.  
