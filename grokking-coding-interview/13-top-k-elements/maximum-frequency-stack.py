@@ -11,10 +11,17 @@ class Element:
         # current frequency of the number when it was pushed to the top
         self.frequency = frequency
         
-        # to konw what number came first
+        # to know what number came first
         self.sequenceNumber = sequenceNumber
     
     def __lt__(self, other: 'Element') -> bool:
+        """
+        So when compare in heapq, maxHeap
+        1. higher frequency will be on top (pop first)
+        2. if frequency is the same, the element with higher sequenceNumber will be on top (pop first)
+           because if tie, we want to pop the number that is added later
+        """
+
         # higher frequency wins
         if self.frequency != other.frequency:
             return self.frequency > other.frequency
