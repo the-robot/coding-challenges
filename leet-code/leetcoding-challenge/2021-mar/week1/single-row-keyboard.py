@@ -28,10 +28,11 @@ Constraints:
     word[i] is an English lowercase letter.
 """
 
+
 class Solution:
     def calculate(self, keyboard: str, word: str) -> int:
         return -1
-    
+
 
 if __name__ == "__main__":
     s = Solution()
