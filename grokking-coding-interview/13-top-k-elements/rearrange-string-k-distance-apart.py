@@ -21,8 +21,6 @@ class Solution:
         maxHeap = []
         for char, freq in frequencies.items():
             heapq.heappush(maxHeap, [-freq, char])
-        
-        print(frequencies)
 
         queue = deque()
         resultString = []
