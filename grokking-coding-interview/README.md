@@ -54,3 +54,5 @@ Started from `Jan 30, 2021` to `-`
 ### [13. Top K Elements](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/13-top-k-elements)
 - Any problem that asks us to find the top/smallest/frequent "K" elements among a given set falls under this pattern.
 - The best data structure that comes to mind to keep track of "K" elements is Heap.  
+
+### [14. K-way merge](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/14-k-way-merge)
