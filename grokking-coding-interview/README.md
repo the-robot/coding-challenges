@@ -58,3 +58,5 @@ Started from `Jan 30, 2021` to `-`
 ### [14. K-way merge](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/14-k-way-merge)
 - The problem will feature sorted arrays, lists, or a matrix.
 - If the problem asks you to merge sorted lists, find the smallest element in a sorted list.
+
+### [15. 0 or 1 Knapsack (Dynamic Programming)](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/15-0-or-1-kanpsack-dynamic-programming)
