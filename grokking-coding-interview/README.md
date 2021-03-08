@@ -30,32 +30,32 @@ Started from `Jan 30, 2021` to `-`
 ### [06. In Place Reversal of a LinkedList](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/06-in-place-reversal-of-a-linkedlist)
 - If you’re asked to reverse a linked list without using extra memory.
 
-### [07. Tree Breadth First Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/07-tree-breadth-first-search)
+### [07. Tree Breadth First Search](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/07-tree-breadth-first-search)
 - If you’re asked to traverse a tree in a level-by-level fashion (or level order traversal).
 
-### [08. Tree Depth First Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/08-tree-depth-first-search)
+### [08. Tree Depth First Search](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/08-tree-depth-first-search)
 - If you’re asked to traverse a tree with in-order, preorder, or postorder DFS.
 - If the problem requires searching for something where the node is closer to a leaf.
 
-### [09. Two Heaps](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/09-two-heaps)
+### [09. Two Heaps](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/09-two-heaps)
 - Useful in situations like Priority Queue, Scheduling
 - If the problem states that you need to find the smallest/largest/median elements of a set
 - Sometimes, useful in problems featuring a binary tree data structure
 
-### [10. Subsets](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/10-subsets)
+### [10. Subsets](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/10-subsets)
 - Problems where you need to find the combinations or permutations of a given set
 
-### [11. Modified Binary Search](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/11-modified-binary-search)
+### [11. Modified Binary Search](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/11-modified-binary-search)
 - Whenever you are given a sorted array, linked list, or matrix, and are asked to find a certain element, the best algorithm you can use is the Binary Search.
 - This pattern describes an efficient way to handle all problems involving Binary Search.
 
-### [12. Bitwise XOR](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/12-bitwise-xor)
+### [12. Bitwise XOR](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/12-bitwise-xor)
 
-### [13. Top K Elements](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/13-top-k-elements)
+### [13. Top K Elements](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/13-top-k-elements)
 - Any problem that asks us to find the top/smallest/frequent "K" elements among a given set falls under this pattern.
 - The best data structure that comes to mind to keep track of "K" elements is Heap.  
 
-### [14. K-way merge](https://github.com/the-robot/coding-challenges/tree/master/leet-code/educative.io/14-k-way-merge)
+### [14. K-way merge](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/14-k-way-merge)
 - The problem will feature sorted arrays, lists, or a matrix.
 - If the problem asks you to merge sorted lists, find the smallest element in a sorted list.
 
