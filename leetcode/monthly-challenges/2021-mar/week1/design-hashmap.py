@@ -7,14 +7,12 @@ class MyHashMap:
         """
         self.size = 1000001
         self.nodes = [None] * self.size
-        
 
     def put(self, key: int, value: int) -> None:
         """
         value will always be non-negative.
         """
         self.nodes[key] = value
-        
 
     def get(self, key: int) -> int:
         """
