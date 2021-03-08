@@ -15,7 +15,7 @@ class Solution:
 
         # put the 1st element of each array in the max heap
         for arr in nums:
-            heappush(minHeap, (arr[0], 0, arr))
+            heapq.heappush(minHeap, (arr[0], 0, arr))
             currentMaxNumber = max(currentMaxNumber, arr[0])
 
         """
