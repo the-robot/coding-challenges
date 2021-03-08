@@ -2,6 +2,7 @@
 
 from typing import List
 import heapq
+import math
 
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
