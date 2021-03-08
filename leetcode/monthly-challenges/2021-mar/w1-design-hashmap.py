@@ -1,5 +1,9 @@
 # https://leetcode.com/problems/design-hashmap/
 
+"""
+Topic: Data Structure
+"""
+
 class MyHashMap:
     def __init__(self):
         """

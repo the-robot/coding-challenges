@@ -1,5 +1,9 @@
 # https://leetcode.com/problems/remove-palindromic-subsequences/
 
+"""
+Topic: Two Pointers
+"""
+
 class Solution:
     def removePalindromeSub(self, s: str) -> int:
         # if empty, no steps to make given string empty.
