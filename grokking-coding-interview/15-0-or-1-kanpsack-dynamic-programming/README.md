@@ -2,5 +2,5 @@
 
 <br/>
 
-**How to identify the K-way Merge pattern:**  
+**How to identify the dynamic programming pattern:**  
 - the overlapping subproblems
