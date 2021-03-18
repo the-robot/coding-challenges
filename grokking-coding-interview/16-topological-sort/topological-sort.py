@@ -3,6 +3,7 @@
 from collections import deque
 from typing import List
 
+
 class Solution:
     def sort(self, vertices: int, edges: List[List[int]]) -> List[int]:
         sortedOrder = []
