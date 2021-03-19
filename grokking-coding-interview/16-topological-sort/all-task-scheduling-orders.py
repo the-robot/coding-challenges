@@ -1,24 +1,22 @@
 # https://www.educative.io/courses/grokking-the-coding-interview/q2YmVjQMMr3
 
 from collections import deque
-from typing import List
+from typing import Dict, List
 
 
-# TODO:
 class Solution:
-    def printOrders(self, numCourses: int, prerequisites: List[List[int]]):
+    def printOrders(self, tasks: int, prerequisites: List[List[int]]):
         sortedOrder = []
-        if numCourses <= 0:
+        if tasks <= 0:
             return True
         
         # a. initialize the graph
-        inDegree = {i: 0 for i in range(numCourses)}
-        graph = {i: [] for i in range(numCourses)}
+        inDegree = {i: 0 for i in range(tasks)}
+        graph = {i: [] for i in range(tasks)}
         
         # b. build the graph
-        for courses in prerequisites:
-            # because course[0] depends on course[1] so course[1] is the parent
-            parent, child = courses[1], courses[0]
+        for prerequisite in prerequisites:
+            parent, child = prerequisite[0], prerequisite[1]
             graph[parent].append(child)
             inDegree[child] += 1 # increment the child in degree
         
@@ -28,22 +26,38 @@ class Solution:
             if inDegree[key] == 0:
                 sources.append(key)
         
-        # d. for each source, add it to the sortedOrder and subtract one from all of its children's
-        #    in-degree if a child's in-degree becomes zero, add it to the source queue
-        while sources:
-            vertex = sources.popleft()
-            sortedOrder.append(vertex)
-            
-            for child in graph[vertex]:
-                inDegree[child] -= 1
-                if inDegree[child] == 0:
-                    sources.append(child)
+        self.printAllTopologicalSorts(graph, inDegree, sources, sortedOrder)
 
-        # topological sort is not possible as the graph has a cycle
-        if len(sortedOrder) != numCourses:
-            return []
+    def printAllTopologicalSorts(self, graph: Dict, inDegree: List, sources: List, sortedOrder: List):
+        # for each source, add it to the sortedOrder and subtract one from all of its children's
+        # in-degree if a child's in-degree becomes zero, add it to the source queue
+        if sources:
+            for vertex in sources:
+                sortedOrder.append(vertex)
+                sourcesForNextCall = deque(sources) # make a copy of sources
 
-        return sortedOrder
+                # only remove the current source, all other sources should remain in the
+                # queue for next call
+                sourcesForNextCall.remove(vertex)
+
+                # get the node's children to decrement their in-degrees
+                for child in graph[vertex]:
+                    inDegree[child] -= 1
+                    if inDegree[child] == 0:
+                        sourcesForNextCall.append(child)
+
+                # recursive call to print other orderings from the remaining (and new) sources
+                self.printAllTopologicalSorts(graph, inDegree, sourcesForNextCall, sortedOrder)
+
+                # backtrack, remove the vertex from the sorted order and put all of its children back to graph
+                # for the next source
+                sortedOrder.remove(vertex)
+                for child in graph[vertex]:
+                    inDegree[child] += 1
+
+        # topological sort is not possible as the graph has a cycle, else print sorted order
+        if len(sortedOrder) == len(inDegree):
+            print(sortedOrder)
 
 
 if __name__ == "__main__":
