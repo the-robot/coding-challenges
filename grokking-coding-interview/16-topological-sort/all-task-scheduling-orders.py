@@ -6,7 +6,6 @@ from typing import Dict, List
 
 class Solution:
     def printOrders(self, tasks: int, prerequisites: List[List[int]]):
-        sortedOrder = []
         if tasks <= 0:
             return True
         
@@ -26,6 +25,7 @@ class Solution:
             if inDegree[key] == 0:
                 sources.append(key)
         
+        sortedOrder = []
         self.printAllTopologicalSorts(graph, inDegree, sources, sortedOrder)
 
     def printAllTopologicalSorts(self, graph: Dict, inDegree: List, sources: List, sortedOrder: List):
