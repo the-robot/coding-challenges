@@ -29,8 +29,6 @@ class Solution:
         self.printAllTopologicalSorts(graph, inDegree, sources, sortedOrder)
 
     def printAllTopologicalSorts(self, graph: Dict, inDegree: List, sources: List, sortedOrder: List):
-        # for each source, add it to the sortedOrder and subtract one from all of its children's
-        # in-degree if a child's in-degree becomes zero, add it to the source queue
         if sources:
             for vertex in sources:
                 sortedOrder.append(vertex)
