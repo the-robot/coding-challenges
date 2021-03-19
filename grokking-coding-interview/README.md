@@ -62,7 +62,7 @@ Started from `Jan 30, 2021` to `-`
 ### [15. 0 or 1 Knapsack (Dynamic Programming)](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/15-0-or-1-kanpsack-dynamic-programming)
 - the overlapping subproblems
 
-### [16.Topological Sort (Graph)](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/16-topological-sort)
+### [16. Topological Sort (Graph)](https://github.com/the-robot/coding-challenges/tree/master/grokking-coding-interview/16-topological-sort)
 - the problem will deal with graphs that have no directed cycles
 - if you’re asked to update all objects in a sorted order
 - if you have a class of objects that follow a particular order
