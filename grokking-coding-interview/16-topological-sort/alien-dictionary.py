@@ -9,7 +9,7 @@ class Solution:
     @param words: a list of words
     @return: a string which is correct order
     """
-    def alienOrder(self, words: List[str]):
+    def alienOrder(self, words: List[str]) -> str:
         # Write your code here
         if len(words) == 0:
             return ""
