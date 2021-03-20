@@ -22,10 +22,10 @@ Problems featuring the fast and slow pointers pattern:
 
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
-| Feb, 07, 2021 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/linked-list-cycle.go) |
-| | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/linked-list-cycle-ii.go) |
-| | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/happy-number.go) |
-| | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/middle-of-the-linked-list.go) |
-| | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/palindrome-linked-list.go) |
-| | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/reorder-list.go) |
-| Feb, 08, 2021 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/03-fast-and-slow-pointers/circular-array-loop.go) |
+| Feb, 07, 2021 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/linked-list-cycle.go) |
+| | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/linked-list-cycle-ii.go) |
+| | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/happy-number.go) |
+| | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/middle-of-the-linked-list.go) |
+| | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/palindrome-linked-list.go) |
+| | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/reorder-list.go) |
+| Feb, 08, 2021 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | Medium | [.go](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/03-fast-and-slow-pointers/circular-array-loop.go) |

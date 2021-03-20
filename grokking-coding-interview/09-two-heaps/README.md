@@ -14,7 +14,7 @@ Problems featuring:
 
 | Date | Name | Difficulty | Solution |
 |:----:|:-----|:----------:|:--------:|
-| Feb, 24 2021 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/09-two-heaps/find-median-from-data-stream.cpp) |
-| Feb, 25 2021 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Hard | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/09-two-heaps/sliding-window-median.cpp) |
-| Feb, 26 2021 | [IPO](https://leetcode.com/problems/ipo/) | Hard | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/09-two-heaps/ipo.cpp) |
-| Feb, 27 2021 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/leet-code/educative.io/09-two-heaps/find-right-interval.cpp) |
+| Feb, 24 2021 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/09-two-heaps/find-median-from-data-stream.cpp) |
+| Feb, 25 2021 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Hard | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/09-two-heaps/sliding-window-median.cpp) |
+| Feb, 26 2021 | [IPO](https://leetcode.com/problems/ipo/) | Hard | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/09-two-heaps/ipo.cpp) |
+| Feb, 27 2021 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | Medium | [.cpp](https://github.com/the-robot/coding-challenges/blob/master/grokking-coding-interview/09-two-heaps/find-right-interval.cpp) |
