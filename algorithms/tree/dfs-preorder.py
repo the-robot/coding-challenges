@@ -6,6 +6,19 @@ class TreeNode:
         self.right = right
 
 def preorder(root: TreeNode):
+    if root == None:
+        return
+    
+    # visit root
+    print(root.val, end = " ")
+    
+    # traverse left
+    inorder(root.left)
+    
+    # traverse right
+    inorder(root.right)
+
+def preorder_iteration(root: TreeNode):
     stack = [root]
     
     while stack:
