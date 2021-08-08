@@ -1,3 +1,9 @@
+# Outline
+
+[1. Backtracking](#1-backtracking)
+
+<br/>
+
 # 1. Backtracking
 
 ```
