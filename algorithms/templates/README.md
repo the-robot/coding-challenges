@@ -6,7 +6,7 @@ b. Recursion Block
 c. Restore (pop) Block
 ```
 
-So in general, backtracking should have those 3 blocks in a solution. For example, the solution below is for the [Combinations] problem on leetcode.
+So in general, backtracking should have those 3 blocks in a solution. For example, the solution below is for the [Combinations](https://leetcode.com/problems/combinations/) problem on leetcode.
 
 ```py
 class Solution:
