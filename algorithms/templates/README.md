@@ -58,10 +58,10 @@ Basically it is a FIFO (first-in-first-out).
 The template is fairly straight forward
 
 ```
-a. create queue outside the iteration loop.
-b. get current numbers of items (N) inside the queue and do iteration from (0 to N).
-c. inside the iteration, get quueue item from left.
-d. if you found child items, add it to the queue from behind.
+a. Create queue outside the while loop (loop until queue is empty).
+b. Get current numbers of items (N) inside the queue and do iteration from (0 to N).
+c. Inside the iteration, get quueue item from left.
+d. If you found child items, add it to the queue from behind.
 ```
 
 Example solution for [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) problem.
