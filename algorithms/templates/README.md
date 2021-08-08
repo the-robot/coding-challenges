@@ -1,6 +1,5 @@
-# Outline
-
-[1. Backtracking](#1-backtracking)
+[1. Backtracking](#1-backtracking)  
+[2. BFS](#2-bfs)  
 
 <br/>
 
