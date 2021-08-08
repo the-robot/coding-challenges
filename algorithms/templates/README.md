@@ -60,7 +60,7 @@ The template is fairly straight forward
 ```
 a. Create queue outside the while loop (loop until queue is empty).
 b. Get current numbers of items (N) inside the queue and do iteration from (0 to N).
-c. Inside the iteration, get quueue item from left.
+c. Inside the iteration, get queue item from left.
 d. If you found child items, add it to the queue from behind.
 ```
 
