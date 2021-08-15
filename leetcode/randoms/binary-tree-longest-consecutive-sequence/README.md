@@ -29,10 +29,10 @@ class Solution:
         
         maximum = 1
         
-        if root.left is None or root.left.val == root.val + 1:
+        if root.left is not None and root.left.val == root.val + 1:
             maximum = max(left + 1, maximum)
         
-        if root.right is None or root.right.val == root.val + 1:
+        if root.right is not None and root.right.val == root.val + 1:
             maximum = max(right + 1, maximum)
         
         self.longest = max(self.longest, maximum)
