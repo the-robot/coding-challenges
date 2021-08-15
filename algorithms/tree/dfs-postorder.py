@@ -23,7 +23,7 @@ def postorder(root: TreeNode):
 def postorder_iterative(root: TreeNode):
     stack = [root]
     output = []
-        
+
     while stack:
         current = stack.pop()
 
@@ -40,7 +40,7 @@ def postorder_iterative(root: TreeNode):
 
     # reverse it
     output.reverse()
-    
+
     # print values
     for v in reversed(output):
         print(v, end = " ")
