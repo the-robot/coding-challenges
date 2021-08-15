@@ -5,6 +5,7 @@ class TreeNode:
         self.left = left
         self.right = right
 
+        
 def inorder(root: TreeNode):
     if root == None:
         return
@@ -18,6 +19,7 @@ def inorder(root: TreeNode):
     # traverse right
     inorder(root.right)
 
+    
 def inorder_iterative(self, root: TreeNode):
         stack = []
         current = root
