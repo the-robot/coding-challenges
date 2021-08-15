@@ -5,6 +5,7 @@ class TreeNode:
         self.left = left
         self.right = right
 
+
 def preorder(root: TreeNode):
     if root == None:
         return
@@ -18,21 +19,20 @@ def preorder(root: TreeNode):
     # traverse right
     inorder(root.right)
 
-def preorder_iteration(root: TreeNode):
-    stack = [root]
-    
-    while stack:
-        N = len(stack)
-        
-        for i in range(N):
-            node = stack.pop()
-            print(node.val, end=" ")
-            
-            # you have to add right first, because stack is LIFO (last in first out)
-            # and for preorder, you want to traverse the left first
-            
-            if node.right:
-                stack.append(node.right)
 
-            if node.left:
-                stack.append(node.left)
+def preOrderDFS(root: TreeNode):
+        stack = [root] # initalize stack
+        
+        while stack:
+            current = stack.pop()
+            
+            print(current.val, end = " ")
+            
+            # Add right first, because in stack it is LIFO (Last In First Out)
+            # because for pre-order, we want left first, so we add it later
+            
+            if current.right:
+                stack.append(current.right)
+                
+            if current.left:
+                stack.append(current.left)
