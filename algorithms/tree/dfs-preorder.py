@@ -20,7 +20,7 @@ def preorder(root: TreeNode):
     inorder(root.right)
 
 
-def preOrderDFS(root: TreeNode):
+def preorder_iterative(root: TreeNode):
         stack = [root] # initalize stack
 
         while stack:
