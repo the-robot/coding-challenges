@@ -1,5 +1,7 @@
 from collections import deque
 
+# This template is based on https://leetcode.com/problems/course-schedule/ as an example
+
 """
 Example Data:
 
