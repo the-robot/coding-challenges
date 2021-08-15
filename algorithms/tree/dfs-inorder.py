@@ -20,7 +20,7 @@ def inorder(root: TreeNode):
     inorder(root.right)
 
     
-def inorder_iterative(self, root: TreeNode):
+def inorder_iterative(root: TreeNode):
         stack = []
         current = root
         
