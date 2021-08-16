@@ -11,10 +11,10 @@ def postorder(root: TreeNode):
         return
     
     # traverse left
-    inorder(root.left)
+    postorder(root.left)
     
     # traverse right
-    inorder(root.right)
+    postorder(root.right)
     
     # visit root
     print(root.val, end = " ")

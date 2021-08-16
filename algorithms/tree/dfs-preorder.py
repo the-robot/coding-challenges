@@ -14,10 +14,10 @@ def preorder(root: TreeNode):
     print(root.val, end = " ")
     
     # traverse left
-    inorder(root.left)
+    preorder(root.left)
     
     # traverse right
-    inorder(root.right)
+    preorder(root.right)
 
 
 def preorder_iterative(root: TreeNode):
