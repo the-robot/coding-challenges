@@ -4,7 +4,7 @@
 
 ## My Notes
 
-[solution templates](https://github.com/the-robot/coding-challenges/tree/master/algorithms/templates)
+[solution templates](https://github.com/the-robot/coding-challenges/tree/master/random-drafts/templates)
 
 ## Links
 
