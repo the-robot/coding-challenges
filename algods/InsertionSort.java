@@ -1,3 +1,5 @@
+package algods;
+
 /*
  * Insertion sort
  * Time complexity: O(n^2)

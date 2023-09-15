@@ -1,3 +1,5 @@
+package algods;
+
 /*
  * Merge sort
  * Time complexity: O(n log n)
