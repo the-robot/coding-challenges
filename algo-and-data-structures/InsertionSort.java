@@ -1,3 +1,9 @@
+/*
+ * Insertion sort
+ * Time complexity: O(n^2)
+ * Space complexity: O(1)
+ */
+
 public class InsertionSort {
     public static void main(String[] args) {
         int[] arr = { 12, 11, 13, 5, 6 };
